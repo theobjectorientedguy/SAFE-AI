@@ -1,2 +1,2 @@
-# Python-Live-Chat-App
-Uses Flask Sockets to create a live chat room application.
+# SAFEAI 
+Making Internet Safer, One Message At A Time
